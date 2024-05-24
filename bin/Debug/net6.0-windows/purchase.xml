@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPurchase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Purchase>
+    <Number>1</Number>
+    <Name>EcoPower-300</Name>
+    <Supplier>OceanicEnterprises</Supplier>
+    <Date>2024-05-21T18:19:22.402865+03:00</Date>
+    <Price>35000</Price>
+  </Purchase>
+  <Purchase>
+    <Number>2</Number>
+    <Name>EcoTemp</Name>
+    <Supplier>OceanicEnterprises</Supplier>
+    <Date>2024-03-14T18:19:22</Date>
+    <Price>8500</Price>
+  </Purchase>
+  <Purchase>
+    <Number>3</Number>
+    <Name>EcoWind-1200</Name>
+    <Supplier>OceanicEnterprises</Supplier>
+    <Date>2024-02-21T18:19:22</Date>
+    <Price>90000</Price>
+  </Purchase>
+  <Purchase>
+    <Number>4</Number>
+    <Name>TechMaster Pro 15</Name>
+    <Supplier>SummitSolutions</Supplier>
+    <Date>2024-02-21T18:19:22</Date>
+    <Price>55000</Price>
+  </Purchase>
+  <Purchase>
+    <Number>5</Number>
+    <Name>TechPhone X</Name>
+    <Supplier>SummitSolutions</Supplier>
+    <Date>2024-02-21T18:19:22</Date>
+    <Price>45000</Price>
+  </Purchase>
+  <Purchase>
+    <Number>6</Number>
+    <Name>TechWatch 3</Name>
+    <Supplier>SummitSolutions</Supplier>
+    <Date>2024-03-14T18:19:22</Date>
+    <Price>12000</Price>
+  </Purchase>
+  <Purchase>
+    <Number>7</Number>
+    <Name>ComfortClean X</Name>
+    <Supplier>StellarImports</Supplier>
+    <Date>2024-01-18T18:19:22</Date>
+    <Price>18000</Price>
+  </Purchase>
+  <Purchase>
+    <Number>8</Number>
+    <Name>ComfortAir 500</Name>
+    <Supplier>StellarImports</Supplier>
+    <Date>2024-04-26T18:19:22</Date>
+    <Price>5000</Price>
+  </Purchase>
+  <Purchase>
+    <Number>9</Number>
+    <Name>ComfortLight</Name>
+    <Supplier>StellarImports</Supplier>
+    <Date>2024-05-08T18:19:22</Date>
+    <Price>3200</Price>
+  </Purchase>
+  <Purchase>
+    <Number>10</Number>
+    <Name>Golden Fields</Name>
+    <Supplier>HorizonTradingCo</Supplier>
+    <Date>2024-05-08T18:19:22</Date>
+    <Price>25000</Price>
+  </Purchase>
+  <Purchase>
+    <Number>11</Number>
+    <Name>Abstraction</Name>
+    <Supplier>HorizonTradingCo</Supplier>
+    <Date>2024-05-12T18:19:22</Date>
+    <Price>15000</Price>
+  </Purchase>
+  <Purchase>
+    <Number>12</Number>
+    <Name>Evening Breeze</Name>
+    <Supplier>HorizonTradingCo</Supplier>
+    <Date>2024-03-27T18:19:22</Date>
+    <Price>7000</Price>
+  </Purchase>
+  <Purchase>
+    <Number>13</Number>
+    <Name>SportRun 3000</Name>
+    <Supplier>GlobalMerchantsInc</Supplier>
+    <Date>2024-03-27T18:19:22</Date>
+    <Price>75000</Price>
+  </Purchase>
+  <Purchase>
+    <Number>14</Number>
+    <Name>SportFlex 20</Name>
+    <Supplier>GlobalMerchantsInc</Supplier>
+    <Date>2024-03-27T18:19:22</Date>
+    <Price>6000</Price>
+  </Purchase>
+  <Purchase>
+    <Number>15</Number>
+    <Name>SportMove</Name>
+    <Supplier>GlobalMerchantsInc</Supplier>
+    <Date>2024-03-27T18:19:22</Date>
+    <Price>45000</Price>
+  </Purchase>
+</ArrayOfPurchase>
